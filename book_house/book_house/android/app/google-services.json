@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815979084080",
+    "project_id": "book-house-c1a6e",
+    "storage_bucket": "book-house-c1a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815979084080:android:810e9a03eb446c2b9130f5",
+        "android_client_info": {
+          "package_name": "apreksha.app.book_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815979084080-febrfgnci80u5q2lvpencc4vbai3bdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD161H01PJJVAEYYY92H3Zsux7wo9vmETA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815979084080-febrfgnci80u5q2lvpencc4vbai3bdds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
